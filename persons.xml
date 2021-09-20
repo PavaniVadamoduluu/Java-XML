@@ -1,0 +1,4 @@
+<persons>
+	<person age="22" firstName="Pavani" lastName="Vadamodulu">
+		<address street="adarsha nagar" city="vizag" zip="530017"></address>
+		<cars firstcar="Duster" secondcar="i20"></cars></person></persons>
